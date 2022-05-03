@@ -597,7 +597,7 @@ transition: all 0.3s ease;
     padding: 0 50px;
   }
 }
-@media(max-width: 900px){
+@media(max-width: 960px){
   
   .max-width{
     padding: 0 50px;
