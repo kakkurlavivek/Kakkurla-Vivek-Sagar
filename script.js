@@ -47,13 +47,13 @@ $(document).ready(function(){
     }
   })
   var typed= new Typed(".typing", {
-    strings: ["Full Stack Web Developer", "Software Developer Intern", "Aspiring Student"],
+    strings: ["Aspiring Software Engineer","Web Developer", "Aspiring Student"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
   });
   var typed= new Typed(".typing-2", {
-    strings: ["Full Stack Web Developer", "Software Developer Intern", "Aspiring Student"],
+    strings: ["Aspiring Software Engineer", "Web Developer", "Aspiring Student"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
