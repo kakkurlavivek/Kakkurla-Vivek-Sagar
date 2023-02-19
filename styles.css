@@ -138,6 +138,10 @@ html{
   color: #0fb;
   font-weight: 500;
 }
+.home .home-content .text-4{
+  font-weight: italic;
+  font-size: 27px;
+}
 .home .home-content a{
   display: inline-block;
   
